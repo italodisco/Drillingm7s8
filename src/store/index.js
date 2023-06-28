@@ -46,14 +46,14 @@ export default new Vuex.Store({
         función: "Sanadora",
         tpitulo: "Arcángel de la esperanza",
         ataque: "64",
-        imagen: "https://static.heroesofthestorm.com/heroes/auriel/skins/veteran-sniper-800.jpg",
+        imagen: "https://static.heroesofthestorm.com/heroes/ana/skins/veteran-sniper-800.jpg",
       },
       {
         nombre: "Malfurion",
         función: "Sanadora",
         tpitulo: "Archidruida",
         ataque: "60",
-        imagen: "https://static.heroesofthestorm.com/heroes/malfurion/skins/archidruid-800.jpg",
+        imagen: "https://static.heroesofthestorm.com/heroes/ana/skins/veteran-sniper-800.jpg",
       },
       {
         nombre: "Arthas",
@@ -88,7 +88,7 @@ export default new Vuex.Store({
         función: "Asesino a cuerpo",
         tpitulo: "Prelado tétrico",
         ataque: "131",
-        imagen: "https://static.heroesofthestorm.com/heroes/maiev/skins/dark-prelate-800.jpg",
+        imagen: "https://static.heroesofthestorm.com/heroes/illidan/skins/the-betrayer-800.jpg",
       },
       {
         nombre: "Abathur",
@@ -103,21 +103,21 @@ export default new Vuex.Store({
         función: "Apoyo",
         tpitulo: "Defensora de Rusia",
         ataque: "22",
-        imagen: "https://static.heroesofthestorm.com/heroes/yrel/skins/defender-of-russia-800.jpg",
+        imagen: "https://static.heroesofthestorm.com/heroes/zarya/skins/defender-of-russia-800.jpg",
       },
       {
         nombre: "Nazeebo",
         función: "Asesino a distancia",
         tpitulo: "Médico brujo",
         ataque: "92",
-        imagen: "https://static.heroesofthestorm.com/heroes/nazeebo/skins/herectic-witch-doctor-800.jpg",
+        imagen: "https://static.heroesofthestorm.com/heroes/nazeebo/skins/heretic-witch-doctor-800.jpg",
       },
       {
         nombre: "Genji",
         función: "Asesino a distancia",
         tpitulo: "Ninja cibernético",
         ataque: "44",
-        imagen: "https://static.heroesofthestorm.com/heroes/genji/skins/veteran-sniper-800.jpg",
+        imagen: "https://static.heroesofthestorm.com/heroes/genji/skins/cybernetic-ninja-800.jpg",
       },
     
       {
@@ -131,6 +131,7 @@ export default new Vuex.Store({
 
     ]
   },
+  
   getters: {
   },
   mutations: {

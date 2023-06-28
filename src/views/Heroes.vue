@@ -77,6 +77,7 @@ export default {
 .icon {
   padding: 0 10px;
   font-size: 40px;
+  color: white;
 }
 .table{
     max-height: 65vh;
